@@ -1,0 +1,79 @@
+﻿@model IEnumerable<TpTodoList.Models.Task>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success rounded-pill">Créer une tache</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsCompleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DueDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @if (item.IsCompleted)
+                    {
+                        <span class="text-success">✔</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">✖</span>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DueDate)
+                </td>
+                <td>
+                    @if (!item.IsCompleted)
+                    {
+                        <a class="btn btn-success rounded-pill" asp-action="Validate" asp-route-id="@item.Id">Valider</a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-danger rounded-pill" asp-action="Invalidate" asp-route-id="@item.Id">Invalider</a>
+                    }
+                    <a class="btn btn-primary rounded-pill" asp-action="Edit" asp-route-id="@item.Id">Modifier</a>
+                    <a class="btn btn-primary rounded-pill" asp-action="Details" asp-route-id="@item.Id">Détails</a>
+                    <a class="btn btn-danger rounded-pill" asp-action="Delete" asp-route-id="@item.Id">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    .text-success {
+        color: green;
+    }
+
+    .text-danger {
+        color: red;
+    }
+</style>

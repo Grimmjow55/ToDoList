@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\source\\repos\\TpTodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|c:\\users\\natha\\source\\repos\\tptodolist\\data\\tptodolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D871764-8DCB-496F-8ADE-906A83A739D2}|TpTodoList.csproj|solutionrelative:data\\tptodolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T07:47:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Details.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T07:47:26.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T07:42:55.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tasks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T07:23:24.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:14:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T07:10:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T07:10:32.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:05:40.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:52:19.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TpTodoListDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Data\\TpTodoListDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TpTodoListDbContext.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Data\\TpTodoListDbContext.cs",
+              "RelativeToolTip": "Data\\TpTodoListDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:50:09.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\TpTodoList\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:42:11.457Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 463,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 463,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
